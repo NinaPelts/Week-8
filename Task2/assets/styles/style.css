@@ -1,0 +1,65 @@
+.html {
+    box-sizing: border-box;
+}
+.container__content {
+    padding: 0;
+}
+
+
+/* Header styles */
+
+
+.container__header {
+    margin-top: 0.8rem;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 0.8rem 0.8rem 0 0;
+}
+.link-color {
+    color: white;
+}
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+}
+.navbar__menu {
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+
+
+/* Main styles */
+
+
+.container__main {
+    width: 90%;
+    padding: 0;
+}
+.text {
+    background-color: rgb(229, 226, 226);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.titel {
+   padding-top: 1em;
+}
+.button-titel {
+   margin-bottom: 4em;
+}
+.container__card {
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+
+/* Footer styles */
+.container__footer {
+    overflow: hidden;
+    border-radius: 0 0 0.8rem 0.8rem;
+    padding: 2em;
+    margin-bottom: 1em;
+}
+.footer__titel  {
+    color: #fff;
+}
